@@ -1,0 +1,21 @@
+{
+  "skip_registration" : "0",
+  "server_url" : "iotsp.cisco.com",
+  "https_flag" : "1",
+  "cert_authority_bundle_file": "",
+  "device_data_connector_type" : "https",
+
+  "device_username" : "",
+  "device_password" : "",
+
+  "access_token": "",
+  "access_token_expiration": "",
+  "refresh_token" : "",
+  "refresh_token_expiration": "",
+
+  "mqtt_pub_topic":"/v1/deviceuid/json/dev2app",
+  "mqtt_sub_topic":"",
+
+  "log_file_path": "./iot_device_sdk.log",
+  "logging_level": "5"
+}

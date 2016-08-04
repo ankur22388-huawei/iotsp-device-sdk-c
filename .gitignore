@@ -1,0 +1,37 @@
+# Compiled Source
+*.d
+*.o
+*.a
+*.so
+*.so.*
+*.exe
+# Python files
+*.pyc
+/docs/latex
+/docs/*.pdf
+# OS generated Files
+.DS_Store
+.DS_Store?
+Thumbs.bd
+ethumbs.db
+iot_device_sdk.log
+*/dep/
+*/build/output/
+*/autom4te.cache
+#gcov ignore files
+*.gcda
+*.gcno
+*.gcov
+*.*.gcov
+#
+install/bin/*
+install/lib/*
+install/include/*
+install/share
+linux/utils/jansson-2.7/autom4te.cache/
+linux/utils/jansson-2.7/jansson_private_config.h.in~
+device_db/
+tests/
+sampleApps/ioxApp/*
+sampleApps/sampleAppV2_multidevice/*
+sampleApps/unitTest_sampleAppV2/*

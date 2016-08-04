@@ -1,0 +1,9 @@
+manufacturingId=222
+deviceSerialNum=222
+macAddress=80:E0:1D:66:2F:EF
+deviceType=test
+deviceMake=test
+deviceModel=test
+deviceFirmwareVer=v1.3
+hardwareVer=v0.7
+ipv4=10.194.30.230

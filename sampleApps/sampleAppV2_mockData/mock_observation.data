@@ -1,0 +1,8 @@
+observation_interval 5
+{ "temperature" : 10, "humidity" : 5 }
+{ "temperature" : 11, "humidity" : 10 }
+{ "temperature" : 12, "humidity" : 15 }
+{ "temperature" : 13, "humidity" : 20 }
+{ "temperature" : 14, "humidity" : 25 }
+{ "temperature" : 15, "humidity" : 30 }
+{ "temperature" : 16, "humidity" : 35 }
